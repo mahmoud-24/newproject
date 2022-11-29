@@ -29,6 +29,7 @@ git push origin --delete v1.7
 
 ```
 git tag -d v1.7
+
 ```
 ## To add photo :
 
