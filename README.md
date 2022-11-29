@@ -30,3 +30,6 @@ git push origin --delete v1.7
 ```
 git tag -d v1.7
 ```
+## To add photo :
+
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr9rARiU09goQennrklazpeAAWTjBEhN_Ntg&usqp=CAU" width="800" height="500">
